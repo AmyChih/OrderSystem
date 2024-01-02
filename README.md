@@ -17,5 +17,5 @@ Order System
 * Order System
 -------------------------------------------------------------------------------------
 
-[Google](www.google.com.tw)
+[Google](https://www.google.com.tw)
 
